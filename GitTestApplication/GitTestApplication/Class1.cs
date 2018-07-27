@@ -9,6 +9,8 @@ namespace GitTestApplication
     public class Class1
     {
         public string name = "aa";
+
+
         public string sex = "";
         public int age=23;
     }
