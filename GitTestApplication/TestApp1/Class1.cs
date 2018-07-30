@@ -10,7 +10,7 @@ namespace TestApp1
     {
         public string name = "aa";
         public string sex = "";
-
         public int age = 23;
+        public int bb = 23;
     }
 }
