@@ -12,5 +12,6 @@ namespace TestApp1
         public string sex = "";
         public int age = 23;
         public int aa = 23;
+        public int bb = 23;
     }
 }
