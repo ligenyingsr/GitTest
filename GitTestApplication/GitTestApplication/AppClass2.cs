@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitTestApplication
 {
-    class AppClass2
+    public class AppClass2
     {
+            public string Sex = "";
+            public int Age=23;
     }
 }
