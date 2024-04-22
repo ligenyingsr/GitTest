@@ -10,5 +10,6 @@ namespace GitTestApplication
     {
             public string Sex = "";
             public int Age=23;
+            public int QiTa=23;
     }
 }
